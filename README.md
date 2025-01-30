@@ -55,7 +55,7 @@ ShadowComm/
 
 ## 🛠 Collaboration
 - Utilisation de **Git** pour la gestion du projet.
-- Branches dédiées pour chaque fonctionnalité (`auth`, `chat`, `crypto`).
+- Branches dédiées pour chaque fonctionnalité (`auth`, `chat`).
 - Commits clairs et documentés (`git commit -m "Ajout du chiffrement César"`).
 
 ## 📌 Objectifs
@@ -63,7 +63,8 @@ ShadowComm/
 - 🔹 Sécurité des données et communication protégée.
 - 🔹 Expérience utilisateur fluide et intuitive.
 
-📧 **Contact** : [Votre Email ou GitHub]
+📧 **Contact** : Yokko
 
 ---
-🚀 *Projet réalisé dans le cadre d'une formation en développement web.*
+🚀 *Projet réalisé dans le cadre d'une formation en développement web.(Projet transversale EPSI) *
+
